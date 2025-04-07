@@ -1,0 +1,12 @@
+E:\source\Inter_Test_Tech\Domain\bin\Debug\net8.0\Domain.deps.json
+E:\source\Inter_Test_Tech\Domain\bin\Debug\net8.0\Domain.dll
+E:\source\Inter_Test_Tech\Domain\bin\Debug\net8.0\Domain.pdb
+E:\source\Inter_Test_Tech\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\source\Inter_Test_Tech\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+E:\source\Inter_Test_Tech\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+E:\source\Inter_Test_Tech\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+E:\source\Inter_Test_Tech\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+E:\source\Inter_Test_Tech\Domain\obj\Debug\net8.0\Domain.dll
+E:\source\Inter_Test_Tech\Domain\obj\Debug\net8.0\refint\Domain.dll
+E:\source\Inter_Test_Tech\Domain\obj\Debug\net8.0\Domain.pdb
+E:\source\Inter_Test_Tech\Domain\obj\Debug\net8.0\ref\Domain.dll
